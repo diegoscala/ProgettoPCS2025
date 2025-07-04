@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG CMakeFiles/Poliedro.dir/main.cpp.o CMakeFiles/Poliedro.dir/src/Utils.cpp.o CMakeFiles/Poliedro.dir/ExportParaview/UCDUtilities.cpp.o -o Poliedro 

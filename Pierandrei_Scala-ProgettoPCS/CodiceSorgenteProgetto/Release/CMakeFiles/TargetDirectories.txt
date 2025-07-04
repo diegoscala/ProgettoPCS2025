@@ -1,0 +1,10 @@
+/home/appuser/Data/ProgettoPCS/Release/CMakeFiles/Poliedro.dir
+/home/appuser/Data/ProgettoPCS/Release/CMakeFiles/PoliedroTest.dir
+/home/appuser/Data/ProgettoPCS/Release/CMakeFiles/edit_cache.dir
+/home/appuser/Data/ProgettoPCS/Release/CMakeFiles/rebuild_cache.dir
+/home/appuser/Data/ProgettoPCS/Release/src/CMakeFiles/edit_cache.dir
+/home/appuser/Data/ProgettoPCS/Release/src/CMakeFiles/rebuild_cache.dir
+/home/appuser/Data/ProgettoPCS/Release/ExportParaview/CMakeFiles/edit_cache.dir
+/home/appuser/Data/ProgettoPCS/Release/ExportParaview/CMakeFiles/rebuild_cache.dir
+/home/appuser/Data/ProgettoPCS/Release/src_test/CMakeFiles/edit_cache.dir
+/home/appuser/Data/ProgettoPCS/Release/src_test/CMakeFiles/rebuild_cache.dir
